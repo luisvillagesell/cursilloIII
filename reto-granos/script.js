@@ -15,4 +15,4 @@ function actualizarStock() {
     // Mostrar el resultado en la consola
     console.log("Stock existente:", stockExistente);
     console.log("Stock total después de la carga:", stockTotal);
-}
+} 
